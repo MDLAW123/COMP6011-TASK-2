@@ -19,19 +19,11 @@
 - Inspect the 10-case Excel file and the Human-AI-Dialogue-Suicide-Risk dataset metadata.
 - Map out the 5-class taxonomy and how it differs from binary suicide-detection benchmarks.
 - First Google Scholar / IEEE Xplore searches for LLM-based suicide-risk detection.
-- Skim 3-4 candidate papers; add to reading_log.md.
+
 
 ---
 
-## Papers I Read This Week
 
-| # | Paper | Authors | Year | Added to Reading Log? |
-|---|-------|---------|------|----------------------|
-| 1 | [FILL IN paper title] | [FILL IN authors] | [year] | yes / no |
-| 2 | [FILL IN paper title] | [FILL IN authors] | [year] | yes / no |
-| 3 | [FILL IN paper title] | [FILL IN authors] | [year] | yes / no |
-
----
 
 ## Search Terms I Used
 
@@ -46,50 +38,3 @@
 
 ---
 
-## Key Things I Learned This Week
-
-1. [FILL IN — one specific thing you understand now that you didn't last week]
-2. [FILL IN — second specific thing]
-3. [FILL IN — third specific thing if applicable]
-
----
-
-## What Confused Me This Week
-
-**Confusion 1:** [FILL IN — be specific. "I don't understand why DALE uses four adapters instead of one larger adapter" is useful. "I don't understand DALE" is not.]
-
-*What I will do to resolve it:* [FILL IN]
-
-**Confusion 2 (if applicable):** [FILL IN]
-
----
-
-## How This Week's Reading Connects to the Task
-
-[FILL IN — 2-3 sentences linking what you read this week to the design decisions in your methodology.]
-
----
-
-## How My Thinking Has Changed
-
-[FILL IN — has any paper or experiment changed your initial assumptions about the problem? What did you assume before, and what do you think now?]
-
----
-
-## What I Actually Accomplished This Week
-
-[FILL IN as bullet points — be honest, distinguish what was completed from what slipped.]
-
-- [ ]
-- [ ]
-- [ ]
-
----
-
-## Plan for Next Week
-
-[FILL IN based on what you learned and what's still open.]
-
--
--
--
