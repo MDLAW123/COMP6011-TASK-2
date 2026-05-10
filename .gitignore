@@ -1,0 +1,45 @@
+# Operating system noise
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+venv/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# LaTeX build artefacts
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.lof
+*.lot
+*.dvi
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# The cases dataset must NOT be committed - per the unit's ethical guidelines,
+# the dialogues are not redistributable. Copy the file locally when running
+# the notebook; do not push it to GitHub.
+student_assignment_10_cases.xlsx
+
+# Generated PoC outputs - safe to commit but excluded by default to avoid
+# accidentally committing very large run logs. Commit explicitly when ready.
+poc_results.csv
+poc_summary.csv
